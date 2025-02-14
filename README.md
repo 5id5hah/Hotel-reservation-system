@@ -8,7 +8,8 @@ Welcome to the **Hotel Reservation System**, a simple yet powerful Java-based ap
 - **Get Room Number** – Retrieve room details using a reservation ID.
 - **Update Reservation** – Modify existing booking details.
 - **Delete Reservation** – Cancel a reservation.
-
+### Screenshot
+![Hotel Reservation System](
 ## 🛠️ Tech Stack
 - **Java** – Core programming language
 - **MySQL** – Database for storing reservations
