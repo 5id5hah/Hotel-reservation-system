@@ -8,9 +8,9 @@ import java.util.Scanner;
 import static java.lang.System.exit;
 
 public class Hotel {
-    private static final String url = "jdbc:mysql://localhost:3306/hotel_db";
-    private static final String username = "root";
-    private static final String password = "Sid@12345";
+    private static final String url = "";
+    private static final String username = "";
+    private static final String password = "";
 
     private static Statement statement;
 
